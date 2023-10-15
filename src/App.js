@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import { useEffect, useState } from "react";
+import Navbar from "./components/Navbar";
+import Main from "./components/Main";
 
 function App() {
+  const [language, setLanguage] = useState({ value: "english", label: "EN" });
+
+  useEffect(() => {
+    document.title = "Aeneas";
+    language.value === "english"
+      ? (document.title = "Aeneas")
+      : (document.title = "Eneja");
+  }, [language]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main>
+      <Navbar language={language} setLanguage={setLanguage}></Navbar>
+      <Main language={language}></Main>
+    </main>
   );
 }
 

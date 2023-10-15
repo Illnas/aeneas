@@ -1,0 +1,131 @@
+[
+  {
+    "language": "english",
+    "summary": [
+      {
+        "id": "1",
+        "character": "Aeneas",
+        "relationship": "Son of Venus and husband of Lavinia",
+        "plot": "Aeneas is the main character of The Aeneid. He leads the forces of Troy to Italy so that their descendants can eventually establish Rome."
+      },
+      {
+        "id": "2",
+        "character": "Juno",
+        "relationship": "Enemy of Troy",
+        "plot": "Juno is the queen of the gods, and she hates the Trojans because she knows that they are destined to destroy Carthage, the city she loves."
+      },
+      {
+        "id": "3",
+        "character": "Dido",
+        "relationship": "Lover of Aeneas",
+        "plot": "As queen of Carthage, Dido is an excellent leader and beloved by Juno. She falls in love with Aeneas and, when he leaves her to continue his journey, commits suicide."
+      },
+      {
+        "id": "4",
+        "character": "Turnus",
+        "relationship": "Enemy of Aeneas",
+        "plot": "King of the Rutulians, Turnus becomes the greatest obstacle Aeneas must face. The two of them ultimately duel, resulting in Turnus's death."
+      },
+      {
+        "id": "5",
+        "character": "Venus",
+        "relationship": "Mother of Aeneas",
+        "plot": "The goddess of beauty, Venus, watches over her son and attempts to intervene to help him in his journey."
+      },
+      {
+        "id": "6",
+        "character": "Ascanius",
+        "relationship": "Son of Aeneas",
+        "plot": "A young boy at the beginning of the story, Ascanius ultimately becomes a fighter alongside his father. Founder of Alba Longa."
+      },
+      {
+        "id": "7",
+        "character": "Sibyl",
+        "relationship": "Guide for Aeneas",
+        "plot": "Sibyl, an oracle or fortune teller, leads Aeneas to the underworld."
+      }
+    ],
+    "text": [
+      {
+        "id": "8",
+        "title": "Origin",
+        "paragraphs": "Aeneas, first mentioned by Homer, as a son of Aphrodite (Venus) and Anchises, is a great hero and descendant of Royal family of Troy, who fought in the Troyan war defending his city against Greeks. After fall of Troy, Aeneas gathers survivors, including his son, Ascanius, and his father, Anchises, and leads them out of fallen Troy. And this is where Homer leaves destiny of Aeneas and his journeys, unresolved, which allowed birth of various legends and stories about him. It was Virgil that decided to incorporate many Roman traditions and stories about Aeneas, in his Latin epic poem, The Aeneid (written c. 29–19 bce)."
+      },
+
+      {
+        "id": "9",
+        "title": "Story",
+        "paragraphs": "During fall of the Troy, even though Aeneas fought valiantly in defense of his city, he did not leave the city until his father, Anchises, agreed to leave city after getting sign from the gods. Aeneas tries to find his wife, only for her to appear to him in vision to tell him to continue on his journeys. They visited many places (Delos, Crete, Epirus) before arriving at the Carthage. Anchises dies while they were in Sicily. While sailing around the Mediterranean, and taking brunt of Juno's wrath, they eventually shipwrecked at the coast near Carthage. There, Juno tried to bind Aeneas to Carthage, by marrying him to Dido, Queen of Carthage. After being reminded by gods that his destiny (founding a great city) is unfulfilled, Aeneas leaves Dido, who commits suicide cursing Aeneas, and continues to Italy. There, he asks Sybil to lead him to underworld where he wanted to consult with his father, which he does after completing few tasks given to him by Sybil. After leaving underworld, Aeneas sails Tiber River and meets Latinus, king of Latium. Latinus offered his daughter's hand in marriage to which Juno interferred and made Queen Amata object to said marriage. Then she involved Turnus, neighbouring Latin prince, to wage war with Aeneas. After many conflicts, and with help of gods (Vulcan makes armor for Aeneas), Aeneas defeats Turnus, marries Lavinia and establishes the city Lavinium. Juno finally understands and makes peace with the destiny of Aeneas and Rome and reconciles with Jupiter."
+      },
+      {
+        "id": "10",
+        "title": "Meanings",
+        "paragraphs": "Aeneid, an epic that describes and tries to explain a lot of events that happened in Roman history. First and best example is, that Aeneas is descendant of Royal Family of Troy. By becoming a Roman hero, and being an enemy of Greeks, it would explain wars against Greeks as part of the destiny. Wars with Carthage, famously known as Punic Wars, is also explained in Aeneid. It was destiny that Aeneas had to follow (founding of Rome), and Dido that cursed him and his people with future wars and then committing suicide. Dido's curse is perfect example of the Romans glorifying their greed and ambitions as destiny, involvement of gods and therefore, unavoidable. Even Juno, in Aeneid, realizes that there is nothing stopping Romans from razing her beloved city, Carthage. Not even gods can interfere with Romans trying to achieve greatness. Since Aeneid was written during reign of Augustus, who was Virgil's patron, and who also claimed to be descendant of Aeneas, we can understand the motive behind such an epic. As such, Aeneas founded Lavinium, and his son, Ascanius founded Alba Long, whose descendants, Romulus and Remus, found Rome."
+      }
+    ]
+  },
+  {
+    "language": "croatian",
+    "summary": [
+      {
+        "id": "11",
+        "character": "Eneja",
+        "relationship": "Venerin (Afroditin) sin and Lavinijin muž",
+        "plot": "Eneja je glavni lik epa Eneide. Predvodi izbjeglice iz Troje u Italiju, gdje će njegovi potomci osnovati Rim."
+      },
+      {
+        "id": "12",
+        "character": "Junona (Hera)",
+        "relationship": "Neprijatelj Troje",
+        "plot": "Junona je kraljica bogova, i prezire Trojance jer će uništiti grad koji voli."
+      },
+      {
+        "id": "13",
+        "character": "Didona",
+        "relationship": "Enejina ljubavnica",
+        "plot": "Kao kraljica Kartage, Didona je izvrstan vođa Junonina je miljenica. Zavoli Eneju, te nakon što je Eneja napusti, počini samoubojstvo."
+      },
+      {
+        "id": "14",
+        "character": "Turn",
+        "relationship": "Enejin neprijatelj",
+        "plot": "Kralj Rutulija, Turn postaje najveća prepreka Eneji. Njih dvojica se susretnu u dvoboju koji rezultira Turnovom smrću."
+      },
+      {
+        "id": "15",
+        "character": "Venera",
+        "relationship": "Enejina majka",
+        "plot": "Božica ljepote, Venera, pažljivo motri putovanja svog sina te mu pomaže pri istome."
+      },
+      {
+        "id": "16",
+        "character": "Askanije",
+        "relationship": "Enejin sin",
+        "plot": "Mladić početkom priče, Askanije izrasta u odličnog borca uz svog oca. On kasnije osniva grad Alba Long."
+      },
+      {
+        "id": "17",
+        "character": "Sibila",
+        "relationship": "Enejin vodič",
+        "plot": "Sibila, proročica ili gatara, vodi Eneju u podzemlje."
+      }
+    ],
+    "text": [
+      {
+        "id": "18",
+        "title": "Izvor",
+        "paragraphs": "Eneja, prvi put spomenut od Homera, u Ilijadi, je sin Afrodite (Venere) i Anhiza.On je i veliki heroj i potomak trojanske kraljevske obitelji, te je branio Troju protiv Grka. Nakon pada Troje, Eneja skuplja preživjele, među njima, Askanije, njegov sin te njegov otac, Anhiz. Vodi ih van razrušene Troje na putovanje. Upravo ovdje Homer ostavlje Enejinu sudbinu nedovršenom, i upravo su to Rimljani, a i ostali narodi, iskoristili da stvore razne legende i priče o Eneji. Upravo je Virgil, u svome ep Eneida (pisano c. 29–19 pr. Kr.), odlučio pretvoriti neke od tih legendi i rimskih tradicija u jedno jedinstveno djelo."
+      },
+      {
+        "id": "19",
+        "title": "Priča (Eneida)",
+        "paragraphs": "Tokom pada Troje, iako se Eneja hrabro borio da obrani svoj grad, nije napustio grad dok mu otac nije dobio znak od bogova da napusti Troju. Eneja traži svoju suprugu, koja mu se javlja u viziji i koja mu govori da nastavi svoje putovanje. Tokom svih tih putovanja, Eneja posjećuje mnoga mjesta (Kreta, Epir, Del), prije nego dođu do Kartage. Tokom tih putovanja, posjećuju Siciliju, gdje Eneji umire otac, Anhiz. Junona, u želji da spriječi Eneju da ostvari svoju sudbinu, priredi mu brodolom i Eneja i Trojanci se nađu na obalama Afrike, u blizini Kartage. Tamo, Junona pokušava privezati Eneju brakom za Didonu, ali Merkur podsjeća Eneju da mora ostvariti svoju sudbinu te nastaviti putovanje. Nakon Enejinog odlaska, Didona proklinje Eneju i njegov narod i počini samoubojstvo. U Italji, Eneja traži Sibilu da ga vodi u podyemlje gdje se savjetuje sa svojim ocem. Nakon što se vrati iz podzemlja, Eneja nastavlja svoj put, i plovi Tiberom and susreće se sa Latinom, kraljem Latina. Latin mu nudi brak sa njegovom kćeri te se Junona opet upliće, te natjera kraljicu Amatu da se protivi tom braku, te potom upliće i Turna, susjednog latinskog princa. Nakon mnogih sukoba i okršaja, i uz pomoć bogova (Vulkan mu pravi oklop), Eneja pobjeđuje Turna, ženi Laviniju te osniva grad Lavinium. Junona napokon shvaća da ne može spriječiti Enejinu i sudbinu Rima, te se pomiruje sa Jupiterom."
+      },
+      {
+        "id": "20",
+        "title": "Tumačenja",
+        "paragraphs": "Eneida, ep koji opisuje i objašnjava mnogo događaka koji su se dogodili u rimskoj povijesti. Prvi primjer je taj što je Eneja potomak trojanske kraljevske obitelji. Time što je postao rimski junak sa trojanskim podrijetlom su objašnjeni ratovi sa Grcima, kao dio sudbine. Ratovi sa Kartagom, poznatiji kao Punski ratovi, su isto tako rezultat sudbine, koju je Junona grčevito pokušavala spriječiti. Enejina sudbina i sudbina njegovih potomaka je bila osnovati Rim, te time prouzročiti sam pad Kartage. Isto tako ne smijemo zaboraviti i kletvu koju je Didona bacila, a koja je govorila o stalnom neprijateljstvu ta dva naroda. Upravo ta kletva, ta sudbina je primjer rimskog izmotavanja od posljedica, od shvaćanje Rimljana kao naroda žednog osvajanja, pohlepe za teritorijem i blagom. Čak i Junona, božica, ne može stati toj sudbini na kraj. Treba spomenuti i da je Virgilije napisao Eneju za vrijeme Augusta, tko mu je i bio pokrovitelj. Isto tako je i sam Julije Cezar tvrdio da je potomak Eneje, a samim time i sam August može tvrditi isto. I tako je prema legendi, Eneja osnovao Lavinium, njegov sin Askanije osnovao Albu Longu, i njegovi potomci (Rem i Romul) zaslužni za osnivanje Rima."
+      }
+    ]
+  }
+]

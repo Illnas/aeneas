@@ -1,13 +1,205 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Young+Serif&display=swap");
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+}
+.main {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 10px;
+}
+nav {
+  background: #e4ddc0;
+  height: 10vh;
+  width: 100%;
+  animation: fade 5s infinite;
+  animation-direction: alternate;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.buttons {
+  display: none;
+}
+.header {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  width: 90%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+main .main {
+  background-image: url("./images/journey.png");
+  background-size: cover;
+  background-color: rgba(252, 252, 252, 0.445);
+  background-blend-mode: lighten;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.left-side {
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: rgba(168, 37, 255, 0.185);
+  width: 45%;
+  height: 100%;
+  margin: 10px;
+  padding: 20px;
+}
+.left-side h2 {
+  color: rgb(3, 3, 3);
+  padding-left: 10px;
+  font-size: 28px;
+}
+.left-side h3 {
+  padding-left: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.card-container {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: white;
+  border: 1px solid rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  width: 220px;
+  height: 340px;
+  margin: 10px;
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.card h2 {
+  font-size: 20px;
+  font-family: "Young Serif", serif;
+  margin: 10px;
+}
+
+.card span {
+  font-style: italic;
+}
+
+.card p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+.right-side {
+  border: 1px solid rgb(174, 1, 255);
+  width: 45%;
+  margin: 10px;
+  padding: 20px;
+  height: 100%;
+  background-color: white;
+}
+.right-side section {
+  margin: 10px;
+  padding-top: 20px;
+  border-bottom: 1px solid black;
+}
+
+.right-side section h2 {
+  font-size: 26px;
+  font-family: "Young Serif", serif;
+  margin: 10px;
+}
+
+.right-side section p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+@keyframes fade {
+  from {
+    background: #e4d0ff;
+  }
+  to {
+    background: #a526fa9a;
+  }
+}
+
+@media (min-width: 360px) and (max-width: 480px) {
+  .title {
+    width: 70%;
+  }
+
+  .main {
+    flex-direction: column-reverse;
+  }
+
+  .right-side {
+    border: 1px solid rgb(174, 1, 255);
+    width: 90%;
+    margin: 5px;
+    padding: 10px;
+    height: 100%;
+    background-color: white;
+  }
+
+  .left-side {
+    width: 95%;
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .card-container {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .card {
+    width: 240px;
+    height: 340px;
+    margin: 10px;
+    padding: 5px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .card h2 {
+    font-size: 22px;
+    font-family: "Young Serif", serif;
+    margin: 10px;
+  }
+
+  .card span {
+    font-style: italic;
+  }
+
+  .card p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
 }
