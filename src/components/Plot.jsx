@@ -11,7 +11,7 @@ const Plot = ({ language }) => {
         englishLanguage.map((e) => (
           <section key={e.id}>
             <h2>{e.title}</h2>
-            <p>{e.paragraphs}</p>
+            <p dangerouslySetInnerHTML={{ __html: e.paragraphs }}></p>
           </section>
         ))}
 
@@ -38,35 +38,13 @@ const Plot = ({ language }) => {
           </p>
 
           <p>
-            Detailed information about Aeneas:{" "}
+            The Aeneid by Virgil
             <a
-              href="https://www.britannica.com/topic/Aeneas"
+              href="https://www.theoi.com/Text/VirgilAeneid1.html"
               target="_blank"
               rel="noreferrer"
             >
-              Information
-            </a>
-          </p>
-
-          <p>
-            Encyclopedia of Mythology:{" "}
-            <a
-              href="https://mythopedia.com/topics/aeneas"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Aeneas
-            </a>
-          </p>
-
-          <p>
-            The Aeneid by Virgil: Summary, Characters, and Analysis :{" "}
-            <a
-              href="https://study.com/learn/lesson/aeneid-virgil-summary-characters-analysis.html"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Summary
+              Aeneid, Book One
             </a>
           </p>
         </section>
@@ -87,35 +65,13 @@ const Plot = ({ language }) => {
           </p>
 
           <p>
-            Detaljnije o Eneji:{" "}
+            Vergilijeva Eneida
             <a
-              href="https://www.britannica.com/topic/Aeneas"
+              href="https://www.theoi.com/Text/VirgilAeneid1.html"
               target="_blank"
               rel="noreferrer"
             >
-              Detalji
-            </a>
-          </p>
-
-          <p>
-            Encyclopedia of Mythology:{" "}
-            <a
-              href="https://mythopedia.com/topics/aeneas"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Eneja
-            </a>
-          </p>
-
-          <p>
-            The Aeneid by Virgil: Summary, Characters, and Analysis :{" "}
-            <a
-              href="https://study.com/learn/lesson/aeneid-virgil-summary-characters-analysis.html"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Sažetak
+              Eneida, Prva Knjiga
             </a>
           </p>
         </section>
