@@ -38,7 +38,7 @@ const Plot = ({ language }) => {
           </p>
 
           <p>
-            The Aeneid by Virgil
+            The Aeneid by Virgil:{" "}
             <a
               href="https://www.theoi.com/Text/VirgilAeneid1.html"
               target="_blank"
