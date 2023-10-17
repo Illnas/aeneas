@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aeneas/static/css/main.570686f1.css",
-    "main.js": "/aeneas/static/js/main.bd225ea3.js",
+    "main.js": "/aeneas/static/js/main.ce95ec16.js",
     "static/media/journey.png": "/aeneas/static/media/journey.2ca018553509efd100cb.png",
     "index.html": "/aeneas/index.html",
     "main.570686f1.css.map": "/aeneas/static/css/main.570686f1.css.map",
-    "main.bd225ea3.js.map": "/aeneas/static/js/main.bd225ea3.js.map"
+    "main.ce95ec16.js.map": "/aeneas/static/js/main.ce95ec16.js.map"
   },
   "entrypoints": [
     "static/css/main.570686f1.css",
-    "static/js/main.bd225ea3.js"
+    "static/js/main.ce95ec16.js"
   ]
 }
